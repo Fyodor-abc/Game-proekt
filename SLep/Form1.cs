@@ -73,7 +73,7 @@ namespace SLep
                 pictureBox2.Location = d;
             }
         }
-
+        
         private void panel1_MouseClick(object sender, MouseEventArgs e)
         {
             Point a = new Point(e.X, e.Y);
